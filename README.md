@@ -24,7 +24,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/image_to_ascii.git
+    git clone https://github.com/alx99102/image_to_ascii.git
     cd image_to_ascii
     ```
 

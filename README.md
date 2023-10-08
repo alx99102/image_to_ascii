@@ -57,3 +57,7 @@ You should see the ASCII representation of the provided image or video printed i
 - The image or video will be resized to fit your terminal dimensions. Ensure your terminal is at a reasonable size for best representation.
 - Works best with media that have distinct color contrasts.
 - Ensure `ffmpeg` is installed and added to your PATH variable when processing videos.
+
+## License
+
+This project is licensed under the MIT License.

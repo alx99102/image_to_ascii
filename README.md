@@ -31,13 +31,17 @@
     git clone https://github.com/alx99102/image_to_ascii.git
     cd image_to_ascii
     ```
-
-2. Build the project using Cargo:
+2. Download and install the necessary Cargo dependencies:
+    ```bash
+    cargo update
+    ```
+    
+3. Build the project using Cargo:
     ```bash
     cargo build --release
     ```
 
-3. Run the utility:
+4. Run the utility:
 
    - For image:
      ```bash
